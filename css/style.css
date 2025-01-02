@@ -605,6 +605,8 @@ p.joinform-info{
     padding-top: 6px;
     padding-bottom: 4px;
     font-size: 18px;
+    transition: .3s;
+    transition-property: background-color color; 
 }
 
 .square:hover{
